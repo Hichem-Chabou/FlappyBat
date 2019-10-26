@@ -19,6 +19,10 @@ let bY = 150;
 let gravity = 1.2;
 let score = 0;
 
+document.addEventListener("touchstart", () => {
+    bY -= 24;
+});
+
 document.addEventListener("keydown", () => {
     bY -= 24;
 });
