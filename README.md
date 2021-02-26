@@ -4,7 +4,7 @@ A flappybird clone made with HTML's canvas and Javascript.
 ## Demo  
 Here's a live demo: https://flappybat.surge.sh/  
 
-## Screenshort :camera:  
+## Screenshot :camera:  
 ![Flappy](https://github.com/Hichem-Chabou/FlappyBat/blob/master/img/flappybat.PNG)  
 
 ## License :scroll:  
