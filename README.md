@@ -10,7 +10,7 @@ Here's a live demo: https://flappybat.surge.sh/
 ## To-Do  
 * Improve bat design  
 * Improve level design  
-* Add animation  
+* Add animations  
 
 ## License :scroll:  
 [GNU v3.0](https://github.com/Hichem-Chabou/FlappyBat/blob/master/LICENSE)
