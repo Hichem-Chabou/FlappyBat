@@ -7,7 +7,7 @@ Here's a live demo: https://flappybat.surge.sh/
 ## Screenshot :camera:  
 ![Flappy](https://github.com/Hichem-Chabou/FlappyBat/blob/master/img/flappybat.PNG)  
 
-## To-Do  
+## To-Do :memo:  
 * Improve bat design  
 * Improve level design  
 * Add animations  
