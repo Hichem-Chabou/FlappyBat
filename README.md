@@ -11,6 +11,7 @@ Here's a live demo: https://flappybat.surge.sh/
 * Improve bat design  
 * Improve level design  
 * Add animations  
+* Refactor code  
 
 ## License :scroll:  
 [GNU v3.0](https://github.com/Hichem-Chabou/FlappyBat/blob/master/LICENSE)
